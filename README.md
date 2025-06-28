@@ -73,35 +73,6 @@ Charlie Tactical
 
 ---
 
-### 🚀 How to Run
-
-1. Compile the project:
-   ```bash
-   javac *.java
-   ```
-2. Run with one of the provided input files:
-   ```bash
-   java Main Small.txt
-   ```
-
-3. Example output:
-   ```
-   Alice (Greedy) landed on Bob's property with house. Paid 2000.
-   Charlie (Tactical) bought property at index 3.
-   ...
-   Game Over: Winner is Charlie with 7000 balance and 2 properties.
-   ```
-
----
-
-### 📁 Input Files
-
-- `Small.txt`: Short test with 2–3 players.
-- `Medium.txt`: Moderate board and player count.
-- `Large.txt`: Full simulation for deeper analysis.
-
----
-
 ### 🎓 Notes
 
 - Built for the **Software Technology** course.
