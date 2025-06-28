@@ -1,0 +1,2 @@
+# cli-java-capitaly-university
+A CLI-based Java simulation of a simplified "Capitaly" board game built as a Semester 3 Software Technology assignment at university. Players take turns moving around a cyclical board using dice rolls, encountering different types of fields (properties, services, lucky events). The project demonstrates principles of object-oriented programming, abstract class design, and testing of different player strategies such as Greedy, Careful, and Tactical.
