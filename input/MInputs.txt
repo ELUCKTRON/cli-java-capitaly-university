@@ -1,0 +1,22 @@
+9 1500
+
+Property
+Service 3000
+Lucky 200
+Service 4000
+Property
+Lucky 100
+Service 3500
+Property
+Service 4500
+
+4
+Alice Greedy
+Bob Tactical
+Charlie Careful
+Diana Greedy
+
+3 4 6 2
+1 5 2 6
+6 3 5 1
+4 1 6 5
